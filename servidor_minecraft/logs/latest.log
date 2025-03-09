@@ -64,3 +64,12 @@ java.io.FileNotFoundException: whitelist.json (No such file or directory)
 [04:31:49] [Server thread/INFO]: Preparing spawn area: 91%
 [04:31:49] [Server thread/INFO]: Done (6.152s)! For help, type "help" or "?"
 [04:31:49] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[05:25:49] [Server thread/WARN]: The save is being accessed from another location, aborting
+[05:26:34] [Server thread/WARN]: The save is being accessed from another location, aborting
+[05:27:19] [Server thread/WARN]: The save is being accessed from another location, aborting
+[05:28:04] [Server thread/WARN]: The save is being accessed from another location, aborting
+[05:28:49] [Server thread/WARN]: The save is being accessed from another location, aborting
+[05:29:34] [Server thread/WARN]: The save is being accessed from another location, aborting
+[05:30:19] [Server thread/WARN]: The save is being accessed from another location, aborting
+[05:31:04] [Server thread/WARN]: The save is being accessed from another location, aborting
+[05:31:49] [Server thread/WARN]: The save is being accessed from another location, aborting
