@@ -53,6 +53,12 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/wither_helmet": {
+    "criteria": {
+      "has_bone": "2025-04-19 20:47:27 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/tunic_red_leggings": {
     "criteria": {
       "has_iron_leggings": "2025-04-19 20:31:03 +0000"
@@ -68,6 +74,30 @@
   "farmersdelight:recipes/food/melon_juice": {
     "criteria": {
       "has_melon_slice": "2025-04-19 20:10:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-04-19 20:49:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-04-19 20:49:43 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/skeleton_chestplate": {
+    "criteria": {
+      "has_bone": "2025-04-19 20:47:27 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/horn_boots": {
+    "criteria": {
+      "has_sand": "2025-04-19 20:49:43 +0000"
     },
     "done": true
   },
@@ -107,6 +137,12 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/wither_boots": {
+    "criteria": {
+      "has_bone": "2025-04-19 20:47:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_axe": {
     "criteria": {
       "has_gold_ingot": "2025-04-19 20:16:20 +0000"
@@ -134,6 +170,12 @@
   "minecraft:recipes/redstone/dark_oak_trapdoor": {
     "criteria": {
       "has_planks": "2025-04-19 20:19:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-04-19 20:49:43 +0000"
     },
     "done": true
   },
@@ -203,6 +245,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/brown_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-04-19 20:49:43 +0000"
+    },
+    "done": true
+  },
   "corail_recycler:recipes/diamond_disk": {
     "criteria": {
       "requirement_2": "2025-04-19 20:17:25 +0000"
@@ -227,9 +275,33 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/pirate_leggings": {
+    "criteria": {
+      "has_bone": "2025-04-19 20:47:27 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/apple_helmet": {
     "criteria": {
       "has_golden_apple": "2025-04-19 20:18:16 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/rattlesnake": {
+    "criteria": {
+      "killed_by": "2025-04-19 20:52:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-04-19 20:49:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2025-04-19 20:49:43 +0000"
     },
     "done": true
   },
@@ -305,6 +377,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/green_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-04-19 20:49:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/clock": {
     "criteria": {
       "has_redstone": "2025-04-19 20:16:21 +0000"
@@ -344,6 +422,18 @@
   "farmersdelight:main/get_fd_seed": {
     "criteria": {
       "rice": "2025-04-19 20:16:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-04-19 20:49:43 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/pirate_helmet": {
+    "criteria": {
+      "has_bone": "2025-04-19 20:47:27 +0000"
     },
     "done": true
   },
@@ -443,6 +533,18 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/wither_leggings": {
+    "criteria": {
+      "has_bone": "2025-04-19 20:47:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-04-19 20:49:43 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/wheat_dough_from_water": {
     "criteria": {
       "has_wheat": "2025-04-19 20:28:14 +0000"
@@ -451,6 +553,11 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-04-19 20:40:22 +0000",
+      "minecraft:skeleton": "2025-04-19 20:45:15 +0000",
+      "minecraft:spider": "2025-04-19 20:50:29 +0000",
+      "minecraft:husk": "2025-04-19 20:41:46 +0000",
+      "minecraft:cave_spider": "2025-04-19 20:50:35 +0000",
       "minecraft:zombie": "2025-04-19 20:27:47 +0000"
     },
     "done": false
@@ -479,6 +586,12 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/pirate_boots": {
+    "criteria": {
+      "has_bone": "2025-04-19 20:47:27 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/dragon_flute": {
     "criteria": {
       "has_item": "2025-04-19 20:29:07 +0000"
@@ -488,6 +601,12 @@
   "mowziesmobs:root": {
     "criteria": {
       "custom_test_name": "2025-04-19 20:07:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-04-19 20:47:27 +0000"
     },
     "done": true
   },
@@ -575,6 +694,12 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/wither_chestplate": {
+    "criteria": {
+      "has_bone": "2025-04-19 20:47:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/note_block": {
     "criteria": {
       "has_redstone": "2025-04-19 20:16:21 +0000"
@@ -620,6 +745,12 @@
   "farmersdelight:recipes/cooking/squid_ink_pasta": {
     "criteria": {
       "has_any_ingredient": "2025-04-19 20:34:04 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/skeleton_helmet": {
+    "criteria": {
+      "has_bone": "2025-04-19 20:47:27 +0000"
     },
     "done": true
   },
@@ -683,6 +814,12 @@
     },
     "done": true
   },
+  "skilltree:recipes/misc/assassin_necklace": {
+    "criteria": {
+      "has_bone": "2025-04-19 20:47:27 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/fried_rice": {
     "criteria": {
       "has_any_ingredient": "2025-04-19 20:16:21 +0000"
@@ -743,9 +880,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lime_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-04-19 20:49:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2025-04-19 20:17:25 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/pirate_chestplate": {
+    "criteria": {
+      "has_bone": "2025-04-19 20:47:27 +0000"
     },
     "done": true
   },
@@ -815,6 +964,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-04-19 20:50:11 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/bamboo_boots": {
     "criteria": {
       "has_coal": "2025-04-19 20:16:32 +0000"
@@ -827,9 +982,27 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/horn_helmet": {
+    "criteria": {
+      "has_sand": "2025-04-19 20:49:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/glistering_melon_slice": {
     "criteria": {
       "has_melon": "2025-04-19 20:10:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-04-19 20:49:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2025-04-19 20:50:11 +0000"
     },
     "done": true
   },
@@ -881,9 +1054,21 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/skeleton_boots": {
+    "criteria": {
+      "has_bone": "2025-04-19 20:47:27 +0000"
+    },
+    "done": true
+  },
   "knightquest:knightquest": {
     "criteria": {
       "requirement": "2025-04-19 20:09:08 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/skeleton_leggings": {
+    "criteria": {
+      "has_bone": "2025-04-19 20:47:27 +0000"
     },
     "done": true
   },
@@ -908,6 +1093,12 @@
   "chiselsandbits:recipes/tools/wrench": {
     "criteria": {
       "has_p": "2025-04-19 20:14:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-04-19 20:49:43 +0000"
     },
     "done": true
   },
@@ -989,9 +1180,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/bone_broth": {
+    "criteria": {
+      "has_bone": "2025-04-19 20:47:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/jungle_sign": {
     "criteria": {
       "has_planks": "2025-04-19 20:14:14 +0000"
+    },
+    "done": true
+  },
+  "skilltree:recipes/combat/bone_quiver": {
+    "criteria": {
+      "has_bone": "2025-04-19 20:47:27 +0000"
     },
     "done": true
   },
@@ -1038,6 +1241,18 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/horn_chestplate": {
+    "criteria": {
+      "has_sand": "2025-04-19 20:49:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-04-19 20:49:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_sword": {
     "criteria": {
       "has_gold_ingot": "2025-04-19 20:16:20 +0000"
@@ -1077,6 +1292,12 @@
   "farmersdelight:recipes/cooking/tomato_sauce": {
     "criteria": {
       "has_tomato": "2025-04-19 20:34:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2025-04-19 20:49:43 +0000"
     },
     "done": true
   },
@@ -1170,9 +1391,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/gray_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-04-19 20:49:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2025-04-19 20:17:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-04-19 20:49:43 +0000"
     },
     "done": true
   },
@@ -1314,6 +1547,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purple_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-04-19 20:49:43 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/dragon_horn": {
     "criteria": {
       "has_item": "2025-04-19 20:29:07 +0000"
@@ -1344,6 +1583,18 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/horn_leggings": {
+    "criteria": {
+      "has_sand": "2025-04-19 20:49:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-04-19 20:49:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2025-04-19 20:15:47 +0000"
@@ -1371,6 +1622,12 @@
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2025-04-19 20:17:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-04-19 20:50:11 +0000"
     },
     "done": true
   },
