@@ -5933,3 +5933,5 @@ com.google.gson.JsonSyntaxException: Unknown item 'irons_spellbooks:mithril_ingo
 [19Apr2025 22:33:08.307] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
 [19Apr2025 22:35:06.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gosttp has made the advancement [Ice Bucket Challenge]
 [19Apr2025 22:38:45.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gosttp has made the advancement [No Step on Snake]
+[19Apr2025 22:49:28.414] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gosttp lost connection: Disconnected
+[19Apr2025 22:49:28.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gosttp left the game
