@@ -101,6 +101,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_chiseled_sandstone": "2025-04-19 21:25:32 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/skeleton_chestplate": {
     "criteria": {
       "has_bone": "2025-04-19 20:20:42 +0000"
@@ -128,6 +134,12 @@
   "knightquest:recipes/misc/chainmail_helmet2": {
     "criteria": {
       "has_iron_helmet": "2025-04-19 20:40:55 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/enderman_helmet": {
+    "criteria": {
+      "has_ender_pearl": "2025-04-19 21:28:00 +0000"
     },
     "done": true
   },
@@ -230,6 +242,12 @@
   "knightquest:recipes/misc/witch_leggings": {
     "criteria": {
       "has_glass_bottle": "2025-04-19 20:39:34 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_bone_wall": {
+    "criteria": {
+      "has_item": "2025-04-19 21:22:31 +0000"
     },
     "done": true
   },
@@ -401,6 +419,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/tools/dragonbone_shovel": {
+    "criteria": {
+      "has_item": "2025-04-19 21:22:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_shovel": {
     "criteria": {
       "has_gold_ingot": "2025-04-19 20:28:33 +0000"
@@ -554,6 +578,12 @@
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2025-04-19 20:14:22 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/enderman_leggings": {
+    "criteria": {
+      "has_ender_pearl": "2025-04-19 21:28:00 +0000"
     },
     "done": true
   },
@@ -841,6 +871,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/dragon_flute": {
+    "criteria": {
+      "has_item": "2025-04-19 21:22:31 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/khopesh_claymore": {
     "criteria": {
       "has_map": "2025-04-19 20:21:53 +0000"
@@ -889,6 +925,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_wither_rose": "2025-04-19 20:59:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bone_meal": {
     "criteria": {
       "has_bone": "2025-04-19 20:20:42 +0000"
@@ -910,6 +952,12 @@
   "farmersdelight:recipes/decorations/cooking_pot": {
     "criteria": {
       "has_iron_ingot": "2025-04-19 20:29:42 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_axe": {
+    "criteria": {
+      "has_item": "2025-04-19 21:22:31 +0000"
     },
     "done": true
   },
@@ -940,6 +988,12 @@
   "minecraft:recipes/decorations/smithing_table": {
     "criteria": {
       "has_iron_ingot": "2025-04-19 20:29:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab": {
+    "criteria": {
+      "has_cut_sandstone": "2025-04-19 21:25:32 +0000"
     },
     "done": true
   },
@@ -1015,6 +1069,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_cut_sandstone_stonecutting": {
+    "criteria": {
+      "has_cut_sandstone": "2025-04-19 21:25:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/oak_chest_boat": {
     "criteria": {
       "has_boat": "2025-04-19 20:11:48 +0000"
@@ -1084,6 +1144,12 @@
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2025-04-19 20:11:53 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_pickaxe": {
+    "criteria": {
+      "has_item": "2025-04-19 21:22:31 +0000"
     },
     "done": true
   },
@@ -1213,6 +1279,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/skull_to_bone_meal": {
+    "criteria": {
+      "has_item": "2025-04-19 21:22:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_sword": {
     "criteria": {
       "has_iron_ingot": "2025-04-19 20:29:42 +0000"
@@ -1249,6 +1321,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_chiseled_sandstone": "2025-04-19 21:25:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2025-04-19 20:29:42 +0000"
@@ -1258,6 +1336,12 @@
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2025-04-19 20:29:42 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/nest": {
+    "criteria": {
+      "has_item": "2025-04-19 21:22:31 +0000"
     },
     "done": true
   },
@@ -1405,6 +1489,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/dragonbone_bow": {
+    "criteria": {
+      "has_item": "2025-04-19 21:22:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-04-19 20:09:53 +0000"
@@ -1513,6 +1603,12 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/enderman_boots": {
+    "criteria": {
+      "has_ender_pearl": "2025-04-19 21:28:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-04-19 20:34:18 +0000"
@@ -1585,6 +1681,12 @@
     },
     "done": true
   },
+  "skilltree:recipes/misc/scholar_necklace": {
+    "criteria": {
+      "has_ender_pearl": "2025-04-19 21:28:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_shovel": {
     "criteria": {
       "has_iron_ingot": "2025-04-19 20:29:42 +0000"
@@ -1606,6 +1708,12 @@
   "chiselsandbits:recipes/tools/chisel_iron": {
     "criteria": {
       "has_rod": "2025-04-19 20:07:20 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragon_bone_block": {
+    "criteria": {
+      "has_dragonbone": "2025-04-19 21:22:31 +0000"
     },
     "done": true
   },
@@ -1760,6 +1868,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-04-19 21:29:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2025-04-19 20:09:50 +0000"
@@ -1784,9 +1898,21 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/enderman_chestplate": {
+    "criteria": {
+      "has_ender_pearl": "2025-04-19 21:28:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gold_block": {
     "criteria": {
       "has_gold_ingot": "2025-04-19 20:28:33 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_rotten": {
+    "criteria": {
+      "requirement": "2025-04-19 21:30:23 +0000"
     },
     "done": true
   },
@@ -1835,6 +1961,18 @@
   "minecraft:recipes/building_blocks/white_wool_from_string": {
     "criteria": {
       "has_string": "2025-04-19 20:32:14 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_sword": {
+    "criteria": {
+      "has_item": "2025-04-19 21:22:31 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_hoe": {
+    "criteria": {
+      "has_item": "2025-04-19 21:22:31 +0000"
     },
     "done": true
   },
@@ -1936,13 +2074,21 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:eroded_badlands": "2025-04-19 21:10:38 +0000",
+      "minecraft:bamboo_jungle": "2025-04-19 21:03:16 +0000",
+      "minecraft:badlands": "2025-04-19 21:12:30 +0000",
+      "minecraft:savanna_plateau": "2025-04-19 21:07:20 +0000",
       "minecraft:beach": "2025-04-19 20:07:49 +0000",
+      "minecraft:dark_forest": "2025-04-19 21:01:34 +0000",
       "minecraft:sparse_jungle": "2025-04-19 20:13:19 +0000",
       "minecraft:lukewarm_ocean": "2025-04-19 20:12:06 +0000",
       "minecraft:river": "2025-04-19 20:11:55 +0000",
+      "minecraft:dripstone_caves": "2025-04-19 21:23:36 +0000",
       "minecraft:forest": "2025-04-19 20:14:19 +0000",
+      "minecraft:desert": "2025-04-19 21:11:27 +0000",
       "minecraft:jungle": "2025-04-19 20:06:08 +0000",
       "minecraft:old_growth_birch_forest": "2025-04-19 20:16:08 +0000",
+      "minecraft:savanna": "2025-04-19 21:06:16 +0000",
       "minecraft:plains": "2025-04-19 20:13:16 +0000"
     },
     "done": false
@@ -1962,6 +2108,12 @@
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-04-19 20:09:50 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_ghost": {
+    "criteria": {
+      "killed_fire_dragon": "2025-04-19 20:59:23 +0000"
     },
     "done": true
   },
@@ -2039,8 +2191,11 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-04-19 21:19:00 +0000",
       "cooked_mutton": "2025-04-19 20:26:57 +0000",
-      "cooked_beef": "2025-04-19 20:20:17 +0000"
+      "cooked_beef": "2025-04-19 20:20:17 +0000",
+      "golden_apple": "2025-04-19 21:29:35 +0000",
+      "cooked_rabbit": "2025-04-19 21:04:37 +0000"
     },
     "done": false
   },
@@ -2080,6 +2235,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/dragon_horn": {
+    "criteria": {
+      "has_item": "2025-04-19 21:22:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
       "has_cobblestone": "2025-04-19 20:09:50 +0000"
@@ -2089,6 +2250,12 @@
   "knightquest:recipes/misc/path_leggings": {
     "criteria": {
       "has_leather": "2025-04-19 20:13:54 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_stick": {
+    "criteria": {
+      "has_item": "2025-04-19 21:22:31 +0000"
     },
     "done": true
   },
