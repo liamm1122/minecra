@@ -5929,3 +5929,6 @@ com.google.gson.JsonSyntaxException: Unknown item 'irons_spellbooks:mithril_ingo
 [19Apr2025 22:26:57.207] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
 [19Apr2025 22:26:57.908] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
 [19Apr2025 22:27:25.561] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/157953, l='ServerLevel[world]', x=-1199.70, y=66.00, z=-581.43] died, message: 'Nitwit was slain by Iron Golem'
+[19Apr2025 22:33:07.607] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[19Apr2025 22:33:08.307] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[19Apr2025 22:35:06.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gosttp has made the advancement [Ice Bucket Challenge]
