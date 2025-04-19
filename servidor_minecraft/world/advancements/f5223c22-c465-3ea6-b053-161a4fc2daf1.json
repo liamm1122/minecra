@@ -3131,6 +3131,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/rattlesnake": {
+    "criteria": {
+      "killed": "2025-04-19 22:38:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/activator_rail": {
     "criteria": {
       "has_rail": "2025-04-19 22:28:09 +0000"
@@ -3140,6 +3146,18 @@
   "minecraft:recipes/transportation/detector_rail": {
     "criteria": {
       "has_rail": "2025-04-19 22:28:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_carpet": {
+    "criteria": {
+      "has_red_wool": "2025-04-19 22:41:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_banner": {
+    "criteria": {
+      "has_red_wool": "2025-04-19 22:41:32 +0000"
     },
     "done": true
   },
@@ -3164,6 +3182,12 @@
   "minecraft:recipes/transportation/powered_rail": {
     "criteria": {
       "has_rail": "2025-04-19 22:28:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_bed": {
+    "criteria": {
+      "has_red_wool": "2025-04-19 22:41:32 +0000"
     },
     "done": true
   },
