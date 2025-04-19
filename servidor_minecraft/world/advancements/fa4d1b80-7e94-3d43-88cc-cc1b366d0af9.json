@@ -50,16 +50,21 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:eroded_badlands": "2025-04-19 20:17:46 +0000",
+      "minecraft:birch_forest": "2025-04-19 22:17:09 +0000",
+      "minecraft:bamboo_jungle": "2025-04-19 22:02:22 +0000",
       "minecraft:wooded_badlands": "2025-04-19 21:43:39 +0000",
       "minecraft:badlands": "2025-04-19 20:51:00 +0000",
       "minecraft:beach": "2025-04-19 20:05:55 +0000",
       "minecraft:sparse_jungle": "2025-04-19 20:07:43 +0000",
       "minecraft:river": "2025-04-19 20:07:32 +0000",
+      "minecraft:lukewarm_ocean": "2025-04-19 21:59:41 +0000",
       "minecraft:stony_shore": "2025-04-19 21:46:02 +0000",
       "minecraft:dripstone_caves": "2025-04-19 20:54:37 +0000",
       "minecraft:forest": "2025-04-19 20:08:43 +0000",
       "minecraft:desert": "2025-04-19 20:12:53 +0000",
       "minecraft:jungle": "2025-04-19 20:06:18 +0000",
+      "minecraft:ocean": "2025-04-19 22:16:04 +0000",
+      "minecraft:warm_ocean": "2025-04-19 21:58:56 +0000",
       "minecraft:savanna": "2025-04-19 20:19:10 +0000",
       "minecraft:plains": "2025-04-19 20:08:02 +0000"
     },
@@ -756,8 +761,10 @@
       "baked_potato": "2025-04-19 21:23:10 +0000",
       "apple": "2025-04-19 20:38:24 +0000",
       "rabbit": "2025-04-19 21:45:01 +0000",
+      "mutton": "2025-04-19 22:14:22 +0000",
       "bread": "2025-04-19 20:33:18 +0000",
-      "golden_apple": "2025-04-19 20:22:03 +0000"
+      "golden_apple": "2025-04-19 20:22:03 +0000",
+      "melon_slice": "2025-04-19 22:05:28 +0000"
     },
     "done": false
   },
@@ -2134,15 +2141,9 @@
     },
     "done": true
   },
-  "skilltree:recipes/misc/copper_ingot": {
+  "alexsmobs:alexsmobs/guster": {
     "criteria": {
-      "has_nuggets_copper": "2025-04-19 21:51:56 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/emu": {
-    "criteria": {
-      "killed": "2025-04-19 21:54:20 +0000"
+      "killed_by": "2025-04-19 21:38:04 +0000"
     },
     "done": true
   },
@@ -2164,6 +2165,12 @@
     },
     "done": true
   },
+  "skilltree:recipes/misc/copper_ingot": {
+    "criteria": {
+      "has_nuggets_copper": "2025-04-19 21:51:56 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/decorations/copper_pile": {
     "criteria": {
       "has_item": "2025-04-19 21:51:56 +0000"
@@ -2176,12 +2183,6 @@
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/guster": {
-    "criteria": {
-      "killed_by": "2025-04-19 21:38:04 +0000"
-    },
-    "done": true
-  },
   "skilltree:recipes/misc/copper_ring": {
     "criteria": {
       "has_nuggets_copper": "2025-04-19 21:51:56 +0000"
@@ -2191,6 +2192,216 @@
   "corail_recycler:recipes/copper_nugget": {
     "criteria": {
       "requirement": "2025-04-19 21:51:56 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/emu": {
+    "criteria": {
+      "killed": "2025-04-19 21:54:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-19 21:58:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-19 21:58:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-19 21:58:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-19 21:58:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-19 21:58:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-19 21:58:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-19 21:58:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-19 21:58:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_chest_raft": {
+    "criteria": {
+      "has_boat": "2025-04-19 21:58:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2025-04-19 22:01:36 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/melon_juice": {
+    "criteria": {
+      "has_melon_slice": "2025-04-19 22:01:36 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/melon_popsicle": {
+    "criteria": {
+      "has_melon": "2025-04-19 22:01:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2025-04-19 22:01:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2025-04-19 22:01:36 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/strawhat_boots": {
+    "criteria": {
+      "has_white_wool": "2025-04-19 22:04:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2025-04-19 22:04:39 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/strawhat_leggings": {
+    "criteria": {
+      "has_white_wool": "2025-04-19 22:04:39 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/strawhat_chestplate": {
+    "criteria": {
+      "has_white_wool": "2025-04-19 22:04:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2025-04-19 22:04:39 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/strawhat_helmet": {
+    "criteria": {
+      "has_white_wool": "2025-04-19 22:04:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2025-04-19 22:04:39 +0000"
+    },
+    "done": true
+  },
+  "usefulbackpacks:recipes/backpack_small": {
+    "criteria": {
+      "has_wool": "2025-04-19 22:04:39 +0000"
+    },
+    "done": true
+  },
+  "chiselsandbits:recipes/tools/bit_bag": {
+    "criteria": {
+      "has_w": "2025-04-19 22:04:39 +0000"
+    },
+    "done": true
+  },
+  "usefulbackpacks:recipes/filter_configurator": {
+    "criteria": {
+      "has_wool": "2025-04-19 22:04:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2025-04-19 22:04:39 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_meal": {
+    "criteria": {
+      "has_item": "2025-04-19 22:04:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2025-04-19 22:04:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2025-04-19 22:04:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2025-04-19 22:04:41 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pasta_with_mutton_chop": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-19 22:04:41 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/witch_helmet": {
+    "criteria": {
+      "has_glass_bottle": "2025-04-19 22:07:29 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/witch_leggings": {
+    "criteria": {
+      "has_glass_bottle": "2025-04-19 22:07:29 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/witch_boots": {
+    "criteria": {
+      "has_glass_bottle": "2025-04-19 22:07:29 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/witch_chestplate": {
+    "criteria": {
+      "has_glass_bottle": "2025-04-19 22:07:29 +0000"
     },
     "done": true
   },
