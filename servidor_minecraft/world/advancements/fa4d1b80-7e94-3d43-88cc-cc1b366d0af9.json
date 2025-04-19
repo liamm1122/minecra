@@ -2134,6 +2134,18 @@
     },
     "done": true
   },
+  "skilltree:recipes/misc/copper_ingot": {
+    "criteria": {
+      "has_nuggets_copper": "2025-04-19 21:51:56 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/emu": {
+    "criteria": {
+      "killed": "2025-04-19 21:54:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_rabbit": {
     "criteria": {
       "has_rabbit": "2025-04-19 21:42:04 +0000"
@@ -2152,9 +2164,33 @@
     },
     "done": true
   },
+  "iceandfire:recipes/decorations/copper_pile": {
+    "criteria": {
+      "has_item": "2025-04-19 21:51:56 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/copper_nuggets_to_ingot": {
+    "criteria": {
+      "has_item": "2025-04-19 21:51:56 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/guster": {
     "criteria": {
       "killed_by": "2025-04-19 21:38:04 +0000"
+    },
+    "done": true
+  },
+  "skilltree:recipes/misc/copper_ring": {
+    "criteria": {
+      "has_nuggets_copper": "2025-04-19 21:51:56 +0000"
+    },
+    "done": true
+  },
+  "corail_recycler:recipes/copper_nugget": {
+    "criteria": {
+      "requirement": "2025-04-19 21:51:56 +0000"
     },
     "done": true
   },

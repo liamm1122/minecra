@@ -59,8 +59,10 @@
       "minecraft:stony_shore": "2025-04-19 21:46:07 +0000",
       "minecraft:dripstone_caves": "2025-04-19 20:32:24 +0000",
       "minecraft:forest": "2025-04-19 20:24:17 +0000",
+      "minecraft:lush_caves": "2025-04-19 21:48:19 +0000",
       "minecraft:desert": "2025-04-19 20:35:04 +0000",
       "minecraft:jungle": "2025-04-19 20:07:52 +0000",
+      "minecraft:warm_ocean": "2025-04-19 21:47:57 +0000",
       "minecraft:savanna": "2025-04-19 20:15:16 +0000",
       "minecraft:plains": "2025-04-19 20:14:46 +0000"
     },
@@ -1884,6 +1886,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_sandstone": {
+    "criteria": {
+      "has_sand": "2025-04-19 21:33:47 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/tengu_helmet": {
+    "criteria": {
+      "has_red_sand": "2025-04-19 21:33:47 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/enderman_helmet": {
     "criteria": {
       "has_ender_pearl": "2025-04-19 21:39:37 +0000"
@@ -1893,12 +1907,6 @@
   "knightquest:recipes/misc/enderman_leggings": {
     "criteria": {
       "has_ender_pearl": "2025-04-19 21:39:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/red_sandstone": {
-    "criteria": {
-      "has_sand": "2025-04-19 21:33:47 +0000"
     },
     "done": true
   },
@@ -1917,12 +1925,6 @@
   "knightquest:recipes/misc/enderman_chestplate": {
     "criteria": {
       "has_ender_pearl": "2025-04-19 21:39:37 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/tengu_helmet": {
-    "criteria": {
-      "has_red_sand": "2025-04-19 21:33:47 +0000"
     },
     "done": true
   },
