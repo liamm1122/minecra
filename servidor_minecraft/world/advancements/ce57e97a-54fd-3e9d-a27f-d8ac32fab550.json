@@ -51,10 +51,12 @@
     "criteria": {
       "minecraft:eroded_badlands": "2025-04-19 20:18:34 +0000",
       "minecraft:bamboo_jungle": "2025-04-19 20:13:46 +0000",
+      "minecraft:wooded_badlands": "2025-04-19 21:43:38 +0000",
       "minecraft:badlands": "2025-04-19 20:35:41 +0000",
       "minecraft:beach": "2025-04-19 20:10:06 +0000",
       "minecraft:sparse_jungle": "2025-04-19 20:13:48 +0000",
       "minecraft:river": "2025-04-19 20:13:34 +0000",
+      "minecraft:stony_shore": "2025-04-19 21:46:07 +0000",
       "minecraft:dripstone_caves": "2025-04-19 20:32:24 +0000",
       "minecraft:forest": "2025-04-19 20:24:17 +0000",
       "minecraft:desert": "2025-04-19 20:35:04 +0000",
@@ -246,6 +248,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_beef": "2025-04-19 21:38:35 +0000",
       "bread": "2025-04-19 20:28:20 +0000",
       "rotten_flesh": "2025-04-19 21:14:14 +0000",
       "salmon": "2025-04-19 21:12:01 +0000",
@@ -1878,6 +1881,48 @@
   "knightquest:recipes/misc/spider_leggings": {
     "criteria": {
       "has_spider_eye": "2025-04-19 21:21:35 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/enderman_helmet": {
+    "criteria": {
+      "has_ender_pearl": "2025-04-19 21:39:37 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/enderman_leggings": {
+    "criteria": {
+      "has_ender_pearl": "2025-04-19 21:39:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_sandstone": {
+    "criteria": {
+      "has_sand": "2025-04-19 21:33:47 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/enderman_boots": {
+    "criteria": {
+      "has_ender_pearl": "2025-04-19 21:39:37 +0000"
+    },
+    "done": true
+  },
+  "skilltree:recipes/misc/scholar_necklace": {
+    "criteria": {
+      "has_ender_pearl": "2025-04-19 21:39:37 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/enderman_chestplate": {
+    "criteria": {
+      "has_ender_pearl": "2025-04-19 21:39:37 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/tengu_helmet": {
+    "criteria": {
+      "has_red_sand": "2025-04-19 21:33:47 +0000"
     },
     "done": true
   },
